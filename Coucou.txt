@@ -1,2 +1,6 @@
 Hé coucou !
+<<<<<<< HEAD
 elnbpzieonbzepongzep
+=======
+et c'est la version 2 !
+>>>>>>> 1cba360bde27cd00a8e470a94ef28039e393c935
